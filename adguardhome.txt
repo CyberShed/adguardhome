@@ -1,2 +1,2 @@
 #127.0.0.1 deepseafishing.net
-https://www.igeeksblog.com/wp-content/uploads/2021/04/How-to-know-if-someone-blocked-your-number-on-iPhone.jpg deepseafishing.net
+192.168.0.1:8080 deepseafishing.net
