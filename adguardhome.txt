@@ -1,2 +1,18 @@
 #127.0.0.1 deepseafishing.net
 192.168.0.1:8080 deepseafishing.net
+
+#PlanetRadio
+127.0.0.1 tidd.ly/3U1IJqc
+127.0.0.1 www.awin1.com/cread.php?awinmid=5833&awinaffid=161406&clickref=offers&ued=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2Fnorth-yorkshire%2Fgetaway%2F396700%2Fgeorgian-house--mews%2F%3Fsource%3DGHRGh
+127.0.0.1 www.awin1.com/cread.php?awinmid=5833&awinaffid=161406&clickref=offers&ued=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2F
+127.0.0.1 www.awin1.com/cread.php?awinmid=31555&awinaffid=161406&clickref=comps&ued=https%3A%2F%2Fwww.harrys.com%2Fen%2Fgb%2Fproducts%2Fchristmas-winston-set%3Fawc%3D31555_1666694769_7c7c24007a6f83b194610a36fdbe6cd5%26utm_source%3DPlanet%2Bradio%2Boffers%26utm_medium%3Dawin
+127.0.0.1 clickwork7secure.com/?a=19031&c=77079&s1=competition%7Cnewtab
+127.0.0.1 www.awin1.com/cread.php?awinmid=3790&awinaffid=161406&clickref=comps&ued=https%3A%2F%2Fwww.rac.co.uk%2Fbreakdown-cover%2Fflash-media
+127.0.0.1 www.awin1.com/awclick.php?gid=428610&mid=26483&awinaffid=161406&linkid=3128945&clickref=comps%7Cnewtab
+http://%20bit.ly/-b0nu5
+127.0.0.1 www.bauerlegal.co.uk/website-terms.html
+127.0.0.1 www.bauerlegal.co.uk/privacy-policy
+http://www.bauerlegal.co.uk/competition-terms.html
+127.0.0.1 www.bauerlegal.co.uk/cookie-policy
+127.0.0.1 jobsearch.bauermedia.co.uk/jobs/search
+127.0.0.1 www.bauermedia.co.uk/brands
