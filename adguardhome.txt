@@ -1,6 +1,11 @@
 #127.0.0.1 deepseafishing.net
 192.168.0.1:8080 deepseafishing.net
 
+#youtube
+127.0.0.1 www.youtube.com/ads/
+127.0.0.1 www.youtube.com/shorts/
+
+
 #PlanetRadio
 127.0.0.1 tidd.ly/3U1IJqc
 127.0.0.1 www.awin1.com/cread.php?awinmid=5833&awinaffid=161406&clickref=offers&ued=https%3A%2F%2Fwww.travelzoo.com%2Fuk%2Flocal-deals%2Fnorth-yorkshire%2Fgetaway%2F396700%2Fgeorgian-house--mews%2F%3Fsource%3DGHRGh
